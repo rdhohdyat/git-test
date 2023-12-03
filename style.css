@@ -1,0 +1,16 @@
+input {
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+.container {
+    font-size: 15px;
+}
+
+table td {
+    padding: 5px;
+}
+
+.notif {
+    color : red;
+}
